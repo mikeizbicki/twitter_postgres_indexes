@@ -1,0 +1,34 @@
+================================================================================
+load pg_denormalized
+================================================================================
+/data/tweets/geoTwitter21-01-02.zip
+COPY 2979992
+/data/tweets/geoTwitter21-01-04.zip
+COPY 3044365
+/data/tweets/geoTwitter21-01-05.zip
+COPY 3038917
+/data/tweets/geoTwitter21-01-03.zip
+COPY 3143286
+/data/tweets/geoTwitter21-01-01.zip
+COPY 3189325
+/data/tweets/geoTwitter21-01-10.zip
+COPY 3129896
+/data/tweets/geoTwitter21-01-09.zip
+COPY 3157691
+/data/tweets/geoTwitter21-01-08.zip
+COPY 3148130
+/data/tweets/geoTwitter21-01-07.zip
+COPY 3306556
+/data/tweets/geoTwitter21-01-06.zip
+COPY 3376266
+1587.10user 328.30system 18:18.76elapsed 174%CPU (0avgtext+0avgdata 17376maxresident)k
+0inputs+27856outputs (0major+70545minor)pagefaults 0swaps
+================================================================================
+load pg_normalized_batch
+================================================================================
+2022-04-08 15:38:18.510811 /data/tweets/geoTwitter21-01-02.zip
+...
+...
+...
+23974.74user 1259.12system 51:55.11elapsed 810%CPU (0avgtext+0avgdata 3113188maxresident)k
+5808inputs+86232outputs (3major+847834998minor)pagefaults 0swaps
