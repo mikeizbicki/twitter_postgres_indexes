@@ -251,7 +251,7 @@ then you should see the queries taking only milliseconds to run.
 
 I have provided you the sql queries for the normalized database, but not for the denormalized one.
 You will have to modify the files in `sql.denormalized` so that they produce the same output as the files in `sql.normalized_batch`.
-The purpose of this exercise it twofold:
+The purpose of this exercise is twofold:
 
 1. to give you practice writing queries into a denormalized database (you've only written queries for a normalized database at this point)
 2. to give you practice writing queries and indexes at the same time (the exact queries you'll write in the real world will depend on the indexes you're able to create and vice versa)
