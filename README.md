@@ -339,14 +339,14 @@ The assignment is worth 32 points.
     (They should already be passing, so this will be easy.)
 
     If your queries take more than a full second longer than 4 seconds,
-    you will lose 2 points per second.
+    you will lose 2 points per full second over.
 
 1. The denormalized sql queries are worth 16 points.
 
     You must pass all the test cases to get any credit.
 
     If your queries take more than a full second longer than 4 seconds,
-    you will lose 2 points per second.
+    you will lose 2 points per full second over.
 
 The grader will check the `results.*` files in your github repos to grade your timing.
 If these files are not created correctly, you will receive a 0.
