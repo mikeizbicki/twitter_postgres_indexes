@@ -11,6 +11,10 @@ For this assignment, we will work with 10 days of twitter data, about 31 million
 This is enough data that indexes will dramatically improve query times,
 but you won't have to wait days to create each index and see if it works correctly.
 
+**due date:**
+- graduating students: Tuesday, 5 May
+- non-graduating students: Tuesday, 12 May
+
 > **WARNING:**
 > This assignment can put lots of load on the lambda server.
 > Depending on the lambda server's current load, you may have to wait up to 12 hours for individual CREATE INDEX commands to run.
