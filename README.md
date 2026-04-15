@@ -331,7 +331,7 @@ To submit your assignment:
 
 1. Add the `results.*`, `sql.denormalized/*`, and `services/*/schema-indexes.sql` files to your git repo, commit, and push to github.
 
-1. Submit a link to your forked repo to sakai.
+1. Submit a link to your forked repo to canvas.
 
 ### Grading
 
